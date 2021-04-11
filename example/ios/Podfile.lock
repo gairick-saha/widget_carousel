@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - widget_carousel (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - widget_carousel (from `.symlinks/plugins/widget_carousel/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  widget_carousel:
+    :path: ".symlinks/plugins/widget_carousel/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  widget_carousel: 81feb11d8a637ce234583010cb0d47fe38132687
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
