@@ -92,7 +92,8 @@ class WidgetCarousel extends StatefulWidget {
   }
 }
 
-class _WidgetCarouselState extends State<WidgetCarousel> with TickerProviderStateMixin {
+class _WidgetCarouselState extends State<WidgetCarousel>
+    with TickerProviderStateMixin {
   int? currentPage;
   Timer? timer;
 
